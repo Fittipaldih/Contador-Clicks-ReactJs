@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contador-Clicks-ReactJs/static/css/main.9c3c6405.css",
+    "main.js": "/Contador-Clicks-ReactJs/static/js/main.2e7a2f8c.js",
+    "index.html": "/Contador-Clicks-ReactJs/index.html",
+    "main.9c3c6405.css.map": "/Contador-Clicks-ReactJs/static/css/main.9c3c6405.css.map",
+    "main.2e7a2f8c.js.map": "/Contador-Clicks-ReactJs/static/js/main.2e7a2f8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c3c6405.css",
+    "static/js/main.2e7a2f8c.js"
+  ]
+}
